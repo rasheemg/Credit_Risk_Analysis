@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-
+##Overview of the Project 
 The purpose of this analysis is to use python and scikit-learn and other machine learning models to predict credit risk. We will also be comparing the strengths and weaknesses of the machine learning models. Lastly, we will assess how well the models works.
 
 
